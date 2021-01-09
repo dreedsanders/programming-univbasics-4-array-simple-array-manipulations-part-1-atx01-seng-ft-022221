@@ -1,4 +1,4 @@
-def fruits_bowl (element)
+def fruits_bowl(element)
 
 fruits_bowl<<(element)
 end 
