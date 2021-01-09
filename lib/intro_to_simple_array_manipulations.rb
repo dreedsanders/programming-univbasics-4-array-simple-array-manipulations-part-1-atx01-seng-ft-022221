@@ -3,5 +3,10 @@ def fruits_bowl
 
 end 
 
+element = "orange"
+
 def add_array(array, element)
-  array.unshift
+  array.unshift(element)
+end
+
+puts add_array
