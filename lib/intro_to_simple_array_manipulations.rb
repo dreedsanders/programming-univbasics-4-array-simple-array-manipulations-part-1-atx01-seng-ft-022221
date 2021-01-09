@@ -1,6 +1,7 @@
 def fruits_bowl
   ["apple", "peach", "orange"]
-  fruits_bowl.pop
 
 end 
-puts fruits_bowl
+
+def add_array(array, element)
+  array.pop
