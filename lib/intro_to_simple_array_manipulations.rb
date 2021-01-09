@@ -4,4 +4,4 @@ def fruits_bowl
 end 
 
 def add_array(array, element)
-  array.pop
+  array.unshift
