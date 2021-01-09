@@ -1,9 +1,7 @@
-array_ex = "banana", "apple"
-element_ex = "peach"
-
-
-def using_push (array, element)
-  array << element
+def fruits_bowl
+  ["apple", "banana", "peach"]
 end
 
-using_push (array_ex,element_ex)
+fruits_bowl<< "orange" 
+
+fruits_bowl
