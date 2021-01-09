@@ -1,5 +1,5 @@
 def fruits_bowl
-  []
+  ["apple"]
 
 end 
 
