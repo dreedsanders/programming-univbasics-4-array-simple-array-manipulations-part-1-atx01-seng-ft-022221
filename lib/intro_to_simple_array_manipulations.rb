@@ -2,6 +2,6 @@ def fruits_bowl (element)
   ["apple", "banana", "peach"]
 
 fruits_bowl<<(element)
-end
+end 
 
-fruits_bowl(orange)
+fruits_bowl (orange)
