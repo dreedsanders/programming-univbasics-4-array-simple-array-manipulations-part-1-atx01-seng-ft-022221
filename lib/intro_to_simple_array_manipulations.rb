@@ -3,4 +3,4 @@ def fruits_bowl(element)
   fruits_bowl<<(element)
 
 end 
-puts fruits_bowl(orange)
+puts fruits_bowl"orange"
