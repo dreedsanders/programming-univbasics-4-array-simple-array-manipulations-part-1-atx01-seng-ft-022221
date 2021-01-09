@@ -4,4 +4,4 @@ def fruits_bowl
   fruits_bowl<< "orange"
 end
 
-fruits_bowl
+puts fruits_bowl
