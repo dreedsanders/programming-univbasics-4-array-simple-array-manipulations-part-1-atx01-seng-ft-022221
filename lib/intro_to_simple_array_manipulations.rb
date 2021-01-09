@@ -3,10 +3,10 @@ def fruits_bowl
 
 end 
 
-element = "orange"
+element_bowl = "orange"
 
 def add_array(array, element)
   array.unshift(element)
 end
 
-puts add_array
+puts add_array (fruits_bowl, element_bowl)
